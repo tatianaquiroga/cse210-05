@@ -3,3 +3,4 @@ import random
 import time
 
 director = Director()
+director.start_game()
